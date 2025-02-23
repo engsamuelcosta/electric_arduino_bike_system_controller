@@ -13,7 +13,7 @@ https://create.arduino.cc/projecthub/user334153146/diy-speedometer-using-arduino
 Reaproveitado e melhorado devido ao bug de não zerar os valores:
 https://create.arduino.cc/projecthub/139683/arduino-lcd-display-as-a-bicycle-speedometer-6a6568?ref=tag&ref_id=speedometer&offset=2
 
-Modificado por Samuel Alencar da Costa - 09-12-2020
+Criado por Samuel Alencar da Costa - 09-12-2020
 */
 
 #include <LiquidCrystal_I2C.h> // Biblioteca para utilizar o display com 4 fios conectados ao módulo I2C (vcc, gnd, rx e tx)
